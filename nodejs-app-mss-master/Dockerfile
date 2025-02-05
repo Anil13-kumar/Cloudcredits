@@ -1,3 +1,4 @@
+#It's a docker file
 FROM node
 WORKDIR /app
 COPY package.json package.json
